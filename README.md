@@ -1,4 +1,3 @@
-                                                                                ####crys           //        pinger####
-                                                                                Simple Pinger written in vanilla python
-                                                                                            First Project :)
-                                        
+ ####crys           //        pinger####
+ Simple Pinger written in vanilla python
+First Project :)
